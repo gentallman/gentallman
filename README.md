@@ -52,6 +52,12 @@
 
 <p align="left">This repositories serves as my compass in this journey, guiding us through the complexities of data analysis and exploration.<br><br>As a data analyst, I invite you to join me on this epic quest, where I decode the language of data and uncover the hidden truths that lie beneath the surface. Together, let's navigate the digital expanse and illuminate the path to insights that shape our understanding of the world.<br><br>Let's embark on this adventure together!</p>
 
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentallman&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
