@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/gentallman=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gentallman&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 ###
@@ -60,3 +60,8 @@
 </div>
 
 ###
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
