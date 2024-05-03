@@ -16,10 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gentallman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-###
-
 <!-- <img align="right" height="150" src="https://raw.githubusercontent.com/gentallman/Docs/main/picofme%20(6).png"  /> -->
-
 
 <h2 align="center"> Skills </h2>
 
@@ -39,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
 </div>
 
+<br><br>
 
 <h2 align="center"> Connect with Me </h2>
 
@@ -50,15 +48,7 @@
   <a href="https://www.instagram.com/gentallman/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
-
-
-
-
-
-
-###
-
-
+<br><br>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
