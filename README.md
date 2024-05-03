@@ -46,6 +46,7 @@
   <a href="https://www.facebook.com/rana.smit.9/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
   <a href="https://wa.me/12269756257"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
   <a href="https://www.instagram.com/gentallman/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
 <br><br>
