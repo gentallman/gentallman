@@ -1,4 +1,11 @@
-<h2 align="left"> Hey there, I'm Smit Rana. </h2>
+<p align="center">
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/beffc7d1-d976-490a-bfd7-3265a3f6c79c" width="1000">
+</p>
+
+
+
+
+
 <h3> Welcome to a data odyssey through the vast expanse of digital information, where every dataset is a star in the constellation of knowledge. </h3>
 <p align="left">This repositories serves as my compass in this journey, guiding us through the complexities of data analysis and exploration.<br><br>As a data analyst, I invite you to join me on this epic quest, where I decode the language of data and uncover the hidden truths that lie beneath the surface. Together, let's navigate the digital expanse and illuminate the path to insights that shape our understanding of the world.<br><br>Let's embark on this adventure together!</p>
 
