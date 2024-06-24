@@ -96,4 +96,6 @@
 [![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/rana.smit.9/)
 [![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/12269756257)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/gentallman/)
-[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge)](https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4)
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=notion&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge)](https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4)
+[![X](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/iamgentallman)
+[![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/gentallman)
