@@ -6,13 +6,35 @@
 <h4> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h4> 
 
 
+<div align="center">
+<img src='https://i.imgflip.com/5y659n.jpg' style="height: 400px;"/>
+</div>
+
+
 <h2 align="center"> Stats </h2>
 <div align="center">
-
+  
+  ### Total Contribution
   [![GitHub Streak](https://streak-stats.demolab.com?user=gentallman&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=gentallman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+  
   <img src="https://raw.githubusercontent.com/gentallman/gentallman/output/snake.svg" alt="Snake animation" />
+  
+  ---
+[![](https://visitcount.itsvg.in/api?id=gentallman&icon=2&color=7)](https://visitcount.itsvg.in)
 
 </div>
+
+<h2 align="center">  ✍️ Random Dev Quote </h2>
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Numbers%20have%20an%20important%20story%20to%20tell.%20They%20rely%20on%20you%20to%20give%20them%20a%20clear%20and%20convincing%20voice.&author=Stephen%20Few)
+
+</div>
+
 
 
 <!-- <div align="center">
