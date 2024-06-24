@@ -11,7 +11,7 @@
 </div>
 
 
-<h2 align="center"> Stats </h2>
+<h2 align="center"> :bar_chart: Stats </h2>
 <div align="center">
   
   ### Total Contribution
@@ -20,7 +20,7 @@
   ### 🔝 Top Contributed Repo
   ![](https://github-contributor-stats.vercel.app/api?username=gentallman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  
+  ### :chart_with_upwards_trend: Contribution Graph
   <img src="https://raw.githubusercontent.com/gentallman/gentallman/output/snake.svg" alt="Snake animation" />
   
   ---
@@ -43,7 +43,7 @@
 
 <!-- <img align="right" height="150" src="https://raw.githubusercontent.com/gentallman/Docs/main/picofme%20(6).png"  /> -->
 
-<h2 align="center"> Technology Stack </h2>
+<h2 align="center"> :briefcase: Technology Stack </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -73,7 +73,7 @@
 
 <br><br>
 
-<h2 align="center"> Connect with Me </h2>
+<h2 align="center"> :email: Connect with Me </h2>
 
 <div align="center">
   <a href="mailto:smit98rana@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
