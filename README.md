@@ -45,6 +45,11 @@
 <h2 align="center"> :briefcase: Technology Stack </h2>
 
 <div align="center">
+<img src='https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/data-analyst1.jpg' style="height: 400px;"/>
+</div>
+
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
