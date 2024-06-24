@@ -28,7 +28,6 @@
 
 </div>
 
-<h2 align="center">  ✍️ Random Dev Quote </h2>
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Numbers%20have%20an%20important%20story%20to%20tell.%20They%20rely%20on%20you%20to%20give%20them%20a%20clear%20and%20convincing%20voice.&author=Stephen%20Few)
@@ -76,20 +75,6 @@
 <h2 align="center"> :email: Connect with Me </h2>
 
 <div align="center">
-  <a href="mailto:smit98rana@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/smit98rana/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.facebook.com/rana.smit.9/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
-  <a href="https://wa.me/12269756257"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
-  <a href="https://www.instagram.com/gentallman/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-</div>
-
-<br><br>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:smit98rana@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/smit98rana/)
@@ -99,3 +84,14 @@
 [![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=notion&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge)](https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4)
 [![X](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/iamgentallman)
 [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/gentallman)
+
+</div>
+
+<br><br>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
+
