@@ -5,6 +5,16 @@
 
 <h4> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h4> 
 
+<div align="center">
+
+
+ [![](https://visitcount.itsvg.in/api?id=gentallman&icon=2&color=7)](https://visitcount.itsvg.in)
+
+</div>
+
+
+
+
 
 <div align="center">
 <img src='https://i.imgflip.com/5y659n.jpg' style="height: 400px;"/>
@@ -24,7 +34,6 @@
   <img src="https://raw.githubusercontent.com/gentallman/gentallman/output/snake.svg" alt="Snake animation" />
   
   ---
-[![](https://visitcount.itsvg.in/api?id=gentallman&icon=2&color=7)](https://visitcount.itsvg.in)
 
 </div>
 
