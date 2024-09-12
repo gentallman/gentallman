@@ -3,15 +3,18 @@
 </p>
 
 
-<h4> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h4> 
+<h2> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h2> 
 
 <div align="center">
 
 
- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=2&color=7)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in)
 
 </div>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7" alt="Visit Count" width="200">
+</a>
 
 
 
@@ -104,8 +107,9 @@
 <br><br>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/user-attachments/assets/0c1f9691-3fbe-40e7-b389-841fa9ab6213" alt="Github Stats" width="1000"/>
 </p>
+
 
 
 
