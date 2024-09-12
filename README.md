@@ -7,14 +7,14 @@
 
 <div align="center">
 
-
- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in)
-
-</div>
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7" alt="Visit Count" width="200">
 </a>
+<!-- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in) --!>
+
+</div>
+
+<br>
 
 
 
