@@ -11,7 +11,8 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in) --!>
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 <h2> <p align="center">
  A Glimpse Into My Journey 
 </p></h2>
@@ -38,6 +39,8 @@ As a Data Analyst, I’ve always been drawn to what data has to say, but I don�
 Every dataset presents a new challenge that fuels my passion for learning. I thrive in collaborative environments where teamwork fosters creativity and problem-solving, and I’m committed to staying at the forefront of the latest trends and technologies in data analytics.
 
 I’m excited to bring my analytical skills and passion for data-driven insights to a team dedicated to excellence. Let’s connect and explore how I can contribute to achieving your organization’s goals.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <h3 align="center"> :briefcase: Technology Stack </h3>
 
@@ -82,7 +85,7 @@ I’m excited to bring my analytical skills and passion for data-driven insights
 [![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/gentallman)
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br>
 </div>
 
