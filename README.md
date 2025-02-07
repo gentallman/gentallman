@@ -3,6 +3,33 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f4872f11-5655-4108-8cd8-f24c54956621" width="1000">
 </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="30" alt="PowerBI logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/a16a4762-8e28-44e1-931c-359979dad9f2" height="30" alt="Excel logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/4be6b482-2b54-4b25-858d-1b5ea81f722e" height="30" alt="SQL logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/316fcdab-7dae-493c-9087-beba1365066e" height="35" alt="Tableau logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/844cbc14-e3c5-41bd-bc15-f1c33688d5a0" height="35" alt="GSuite logo"  />
+</div>
+
+
 
 <h3> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h3> 
 
@@ -42,33 +69,9 @@ I’m excited to bring my analytical skills and passion for data-driven insights
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<h3 align="center"> :briefcase: Technology Stack </h3>
+<!-- <h3 align="center"> :briefcase: Technology Stack </h3> -->
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="30" alt="PowerBI logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/a16a4762-8e28-44e1-931c-359979dad9f2" height="30" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/4be6b482-2b54-4b25-858d-1b5ea81f722e" height="30" alt="SQL logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/316fcdab-7dae-493c-9087-beba1365066e" height="35" alt="Tableau logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/844cbc14-e3c5-41bd-bc15-f1c33688d5a0" height="35" alt="GSuite logo"  />
-</div>
+
 
 
 <h3 align="center"> :email: Connect with Me </h3>
