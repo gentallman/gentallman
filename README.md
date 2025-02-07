@@ -5,8 +5,7 @@
 <h3> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h3> 
 
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7" alt="Visit Count" width="200">
+  ![](https://komarev.com/ghpvc/?gentallman)
 </a>
 <!-- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in) --!>
 </div>
