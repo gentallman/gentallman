@@ -29,16 +29,22 @@
   <img src="https://github.com/gentallman/gentallman/assets/78334851/844cbc14-e3c5-41bd-bc15-f1c33688d5a0" height="35" alt="GSuite logo"  />
 </div>
 
+<br>
 
+<p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. <br> Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p>  
 
-<h3> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h3> 
+<br>
 
-<div align="center"><!-- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in) --!>
+<!-- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in) -->
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=gentallman)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 <h2> <p align="center">
  A Glimpse Into My Journey 
@@ -67,28 +73,16 @@ Every dataset presents a new challenge that fuels my passion for learning. I thr
 
 I’m excited to bring my analytical skills and passion for data-driven insights to a team dedicated to excellence. Let’s connect and explore how I can contribute to achieving your organization’s goals.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Numbers%20have%20an%20important%20story%20to%20tell.%20They%20rely%20on%20you%20to%20give%20them%20a%20clear%20and%20convincing%20voice.&author=Stephen%20Few)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!-- <h3 align="center"> :briefcase: Technology Stack </h3> -->
 
-
-
-
-<h3 align="center"> :email: Connect with Me </h3>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:smit98rana@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/smit98rana/)
-[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/rana.smit.9/)
-[![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/12269756257)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/gentallman/)
-[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=notion&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge)](https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4)
-[![X](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/iamgentallman)
-[![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/gentallman)
-
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br>
 </div>
 
@@ -103,18 +97,9 @@ I’m excited to bring my analytical skills and passion for data-driven insights
 
   ### :chart_with_upwards_trend: Contribution Graph
   <img src="https://raw.githubusercontent.com/gentallman/gentallman/output/snake.svg" alt="Snake animation" />
-  
-  ---
+
 
 </div>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Numbers%20have%20an%20important%20story%20to%20tell.%20They%20rely%20on%20you%20to%20give%20them%20a%20clear%20and%20convincing%20voice.&author=Stephen%20Few)
-
-</div>
-
-
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gentallman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -125,28 +110,36 @@ I’m excited to bring my analytical skills and passion for data-driven insights
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-  
 </div> -->
 
 <!-- <img align="right" height="150" src="https://raw.githubusercontent.com/gentallman/Docs/main/picofme%20(6).png"  /> -->
 
-
-<br>
-
-<div align="center">
+<!--<div align="center">
 <img src='https://i.imgflip.com/5y659n.jpg' style="height: 400px;"/>
-</div>
+</div>-->
 
 <br>
 
+<!--<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+     <img src="https://github.com/user-attachments/assets/0c1f9691-3fbe-40e7-b389-841fa9ab6213" alt="Github Stats" width="1000"/> 
+</p>-->
 
-<br><br>
+<h3 align="center"> :email: Connect with Me </h3>
+<div align="center">
 
-<p align="center">
-        <img src="https://github.com/user-attachments/assets/0c1f9691-3fbe-40e7-b389-841fa9ab6213" alt="Github Stats" width="1000"/>
-</p>
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:smit98rana@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/smit98rana/)
+[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/rana.smit.9/)
+[![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/12269756257)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/gentallman/)
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=notion&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge)](https://analytics-portfolio.notion.site/DATA-ANALYST-PORTFOLIO-ed49959b981b41798c31432cfcecc913?pvs=4)
+[![X](https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/iamgentallman)
+[![Kaggle](https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge)](https://www.kaggle.com/gentallman)
 
+</div>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
 
