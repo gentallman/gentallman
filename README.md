@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/beffc7d1-d976-490a-bfd7-3265a3f6c79c" width="1000">
+  <img src="https://github.com/user-attachments/assets/f4872f11-5655-4108-8cd8-f24c54956621" width="1000">
 </p>
 
 <h3> <p align="center"> Hello and welcome! Step into my GitHub playground where data analysis meets creativity. Here, you'll find an assortment of projects showcasing the art of uncovering insights from data. Whether you're passionate about statistics, visualizations, or exploring datasets, this space is yours to discover and learn. Join me as we explore the endless possibilities that data offers. Let's dive in and make sense of the numbers together! 🚀📈 </p> </h3> 
@@ -113,6 +115,15 @@ I’m excited to bring my analytical skills and passion for data-driven insights
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gentallman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+  
 </div> -->
 
 <!-- <img align="right" height="150" src="https://raw.githubusercontent.com/gentallman/Docs/main/picofme%20(6).png"  /> -->
