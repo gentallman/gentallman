@@ -4,27 +4,32 @@
   <img src="https://github.com/user-attachments/assets/f4872f11-5655-4108-8cd8-f24c54956621" width="1000">
 </p>
 <div align="center">
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />   <img width="12" /> -->
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" height="30" alt="qliksense logo"  />
+  <img width="12" />
+  <!-- <img src = "https://github.com/user-attachments/assets/68c8b62a-f8e4-4818-b73e-69452f20f791" height="30" alt="cognoslogo"  /> <img width="20" /> -->
+  <img src = "https://github.com/user-attachments/assets/78108662-094a-46fd-b160-e5157ca7a791" height="30" alt="ibm_cognos logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="30" alt="PowerBI logo"  />
+  <img width="12" />
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" height="30" alt="power_automate logo"  />
+  <img width="12" />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/4be6b482-2b54-4b25-858d-1b5ea81f722e" height="30" alt="SQL logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/a16a4762-8e28-44e1-931c-359979dad9f2" height="30" alt="Excel logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/ios/50/FFFFFF/tableau-software.png" height="35" alt="Tableau logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  /> <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="30" alt="PowerBI logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/a16a4762-8e28-44e1-931c-359979dad9f2" height="30" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/4be6b482-2b54-4b25-858d-1b5ea81f722e" height="30" alt="SQL logo"  />
-  <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/316fcdab-7dae-493c-9087-beba1365066e" height="35" alt="Tableau logo"  />
   <img width="12" />
   <img src="https://github.com/gentallman/gentallman/assets/78334851/844cbc14-e3c5-41bd-bc15-f1c33688d5a0" height="35" alt="GSuite logo"  />
 </div>
