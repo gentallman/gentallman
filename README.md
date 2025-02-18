@@ -5,7 +5,7 @@
 </p>
 <div align="center">
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />   <img width="12" /> -->
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/3/32/Qlik_Logo.svg" height="30" alt="qliksense logo"  />
+  <img src = "https://www.visualintelligence.co.nz/wp-content/uploads/2020/05/kindpng_276791-2048x635.png" height="30" alt="qliksense logo"  />
   <img width="12" />
   <!-- <img src = "https://github.com/user-attachments/assets/68c8b62a-f8e4-4818-b73e-69452f20f791" height="30" alt="cognoslogo"  /> <img width="20" /> -->
   <img src = "https://github.com/user-attachments/assets/78108662-094a-46fd-b160-e5157ca7a791" height="30" alt="ibm_cognos logo"  />
